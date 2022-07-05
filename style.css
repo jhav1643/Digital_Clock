@@ -1,0 +1,39 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.container
+{
+    background-color: black;
+    min-height: 100vh;
+    min-width: 100%;
+}
+
+.heading
+{
+    text-align: center;
+    font-size: 80px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 5vh;
+}
+
+.clock
+{
+    height: 25vw;
+    margin: 3vw 7vw;
+    background-color: whitesmoke;
+    color:rgba(30, 88, 197, 0.945);
+    border-radius: 5vh;
+    
+}
+
+.digital
+{
+    padding-top: 17vh;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bolder;
+}
